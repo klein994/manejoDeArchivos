@@ -1,0 +1,22 @@
+{
+    "name": "manejodearchivos",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start:dev": "node main.js"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/klein994/manejoDeArchivos.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/klein994/manejoDeArchivos/issues"
+    },
+    "homepage": "https://github.com/klein994/manejoDeArchivos#readme"
+}
